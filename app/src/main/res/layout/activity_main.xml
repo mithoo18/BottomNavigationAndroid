@@ -23,8 +23,6 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:elevation="3dp"
-        app:menu="@menu"
-        >
+        app:menu="@menu/menu"/>
 
-    </com.google.android.material.bottomnavigation.BottomNavigationView>
 </RelativeLayout>
